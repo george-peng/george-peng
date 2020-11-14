@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Apigee ...
 - 🌱 I’m currently learning AWS , Firebase ...
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GP1101)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   13 mins         ██████████████████████▒░░   89.29 % 
