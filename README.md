@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Apigee ...
 - 🌱 I’m currently learning AWS , Firebase ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeorgePeng1101&show_icons=true&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeng1101)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpeng1101)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
 ```text
