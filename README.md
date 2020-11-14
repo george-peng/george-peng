@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm George 👋
 
 <!--
 **GeorgePeng1101/GeorgePeng1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
