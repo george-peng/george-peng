@@ -25,4 +25,3 @@ JavaScript   13 mins         █████████████████
 Asciidoc     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@e142c3b4-7cb6-4881-8661-a5622cac861f/01f02911-9b76-4252-a1e8-ce09c9f8491b.svg"></embed></figure>
