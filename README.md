@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Apigee ...
 - 🌱 I’m currently learning AWS , Firebase ...
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgepeng1101&count_private=true)
+
+
+
 ### Most used language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeng1101)](https://github.com/anuraghazra/github-readme-stats)
