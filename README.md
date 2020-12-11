@@ -35,12 +35,3 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpeng1101)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   23 mins         ████████████░░░░░░░░░░░░░   47.83 % 
-JSON         9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Other        8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-<!--END_SECTION:waka-->
