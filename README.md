@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Hybrid Apigee, Backstage , Open Policy Agent , Terraform ...
-- 🌱 I’m currently learning React Native , Firebase , Flutter ...
+- 🔭 I’m currently working on Hybrid Apigee, Terraform, Backstage, Open Policy Agent ...
 
 
 <h3 align="left">Languages and Tools:</h3>
