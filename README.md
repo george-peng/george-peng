@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ### Most used language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeng1101)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-peng)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📊 This week I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpeng1101)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=george-peng)](https://github.com/anuraghazra/github-readme-stats)
 
 
