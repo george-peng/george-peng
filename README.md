@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Hybrid Apigee, Terraform, Backstage, Open Policy Agent, Temporal ...
+- 🔭 I’m currently working on Hybrid Apigee, Terraform, Open Policy Agent...
 
 
 <h3 align="left">Languages and Tools:</h3>
